@@ -1,0 +1,21 @@
+
+<div class="login"> 
+    <h2 class="titulo">CellTech📱</h2>
+    <h4 class="tam">SIGN IN</h4>
+    <p>¿Aún no tienes una cuenta? <a href="../singup/singup.component.html">Crea una cuenta.</a></p>
+    <form (ngSubmit)="logIn()"  [formGroup]="form" class="form">
+        
+      <div id="campos">
+        <label for="username" id="label">Correo</label>
+        <input type="text" id="email" name="username" formControlName="email" required  class="input" placeholder="Correo">
+      </div>
+      <div id="campos">
+        <label for="password" id="label">Contraseña</label>
+        <input type="password" id="password" name="password" formControlName="password" required class="input"  placeholder="Contraseña">
+        
+      </div>
+      
+      
+      <button type="submit" class="button">Confirmar</button>
+    </form>
+  </div>

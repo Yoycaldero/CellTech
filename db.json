@@ -1,52 +1,58 @@
 {
-    "products": [
-          {
-            "id": "1",
-            "image": "../../../assets/imagen/iphone.jpg",
-            "name": "Iphone 6",
-            "precio": 15000
-          },
-          {
-            "id": "2",
-            "image": "../../../assets/imagen/iphone.jpg",
-            "name": "Iphone 8",
-            "precio": 17000
-          },
-          {
-            "id": "3",
-            "image": "../../../assets/imagen/iphone.jpg",
-            "name": "Iphone s20",
-            "precio": 13000
-          },
-          {
-            "id": "4",
-            "image": "../../../assets/imagen/iphone.jpg",
-            "name": "Iphone 14",
-            "precio": 13000
-          },
-          {
-            "id": "5",
-            "image": "../../../assets/imagen/iphone.jpg",
-            "name": "Iphone xsmax",
-            "precio": 13000
-          },
-          {
-            "id": "6",
-            "image": "../../../assets/imagen/iphone.jpg",
-            "name": "Xiaomi b40",
-            "precio": 10300
-          },
-          {
-            "id": "7",
-            "image": "../../../assets/imagen/iphone.jpg",
-            "name": "samsung s8",
-            "precio": 13000
-          },
-          {
-            "id": "8",
-            "image": "../../../assets/imagen/iphone.jpg",
-            "name": "Xiaomi a30",
-            "precio": 10300
-          }
-        ]
+  "products": [
+    {
+      "id": "1",
+      "image": "../../../assets/imagen/iphone.jpg",
+      "name": "Iphone 6",
+      "precio": 15000
+    },
+    {
+      "id": "2",
+      "image": "../../../assets/imagen/iphone.jpg",
+      "name": "Iphone 8",
+      "precio": 17000
+    },
+    {
+      "id": "3",
+      "image": "../../../assets/imagen/iphone.jpg",
+      "name": "Iphone s20",
+      "precio": 13000
+    },
+    {
+      "id": "4",
+      "image": "../../../assets/imagen/iphone.jpg",
+      "name": "Iphone 14",
+      "precio": 13000
+    },
+    {
+      "id": "5",
+      "image": "../../../assets/imagen/iphone.jpg",
+      "name": "Iphone xsmax",
+      "precio": 13000
+    },
+    {
+      "id": "6",
+      "image": "../../../assets/imagen/iphone.jpg",
+      "name": "Xiaomi b40",
+      "precio": 10300
+    },
+    {
+      "id": "7",
+      "image": "../../../assets/imagen/iphone.jpg",
+      "name": "samsung s8",
+      "precio": 13000
+    },
+    {
+      "id": "8",
+      "image": "../../../assets/imagen/iphone.jpg",
+      "name": "Xiaomi a30",
+      "precio": 10300
+    },
+    {
+      "id": "5dOf5O-",
+      "image": "../../../assets/imagen/iphone.jpg",
+      "nombre": "iphone 8",
+      "precio": 1300
+    }
+  ]
 }
